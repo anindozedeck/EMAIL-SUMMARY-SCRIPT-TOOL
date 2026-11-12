@@ -1,0 +1,13 @@
+transaction_id,item_name,quantity_sold,price
+TXN-001,Maize Flour 2kg,2,185.00
+TXN-001,Milk 500ml,3,65.00
+TXN-002,Bread,2,70.00
+TXN-003,Maize Flour 2kg,1,185.00
+TXN-003,Eggs Tray,1,480.00
+TXN-004,Milk 500ml,4,65.00
+TXN-005,Cooking Oil 1L,1,320.00
+TXN-006,Bread,3,70.00
+TXN-007,Maize Flour 2kg,2,185.00
+TXN-008,Sugar 1kg,2,170.00
+TXN-009,Milk 500ml,2,65.00
+TXN-010,Eggs Tray,1,480.00
